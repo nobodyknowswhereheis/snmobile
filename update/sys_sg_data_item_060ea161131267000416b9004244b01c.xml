@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <name>New INTs</name>
+        <query_condition table="incident">state=1<item endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="1"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>jesse.adams</sys_created_by>
+        <sys_created_on>2018-12-10 14:49:03</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>060ea161131267000416b9004244b01c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New INTs</sys_name>
+        <sys_package display_value="test incident flow" source="x_snc_test_inc">772d2921131267000416b9004244b076</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="test incident flow">772d2921131267000416b9004244b076</sys_scope>
+        <sys_update_name>sys_sg_data_item_060ea161131267000416b9004244b01c</sys_update_name>
+        <sys_updated_by>jesse.adams</sys_updated_by>
+        <sys_updated_on>2018-12-10 14:49:03</sys_updated_on>
+        <table>incident</table>
+    </sys_sg_data_item>
+</record_update>
