@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_details_screen">
+    <sys_sg_details_screen action="INSERT_OR_UPDATE">
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item display_value="Active Incidents">acd95516dbde2300f51ef3c61d9619d2</data_item>
+        <description/>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <icon display_value="file-alt">d30a9516dbde2300f51ef3c61d96198e</icon>
+        <item_view display_value="Active INTs detail item view">2b0a9516dbde2300f51ef3c61d961991</item_view>
+        <name>Details</name>
+        <order>10</order>
+        <parent>fb0a5916dbde2300f51ef3c61d96190d</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <roles_override/>
+        <sys_class_name>sys_sg_details_screen</sys_class_name>
+        <sys_created_by>jesse.adams</sys_created_by>
+        <sys_created_on>2018-12-12 21:17:14</sys_created_on>
+        <sys_id>770a5916dbde2300f51ef3c61d96191a</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Details</sys_name>
+        <sys_package display_value="test incident flow" source="x_snc_test_inc">772d2921131267000416b9004244b076</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test incident flow">772d2921131267000416b9004244b076</sys_scope>
+        <sys_update_name>sys_sg_details_screen_770a5916dbde2300f51ef3c61d96191a</sys_update_name>
+        <sys_updated_by>jesse.adams</sys_updated_by>
+        <sys_updated_on>2018-12-12 21:31:51</sys_updated_on>
+    </sys_sg_details_screen>
+</record_update>

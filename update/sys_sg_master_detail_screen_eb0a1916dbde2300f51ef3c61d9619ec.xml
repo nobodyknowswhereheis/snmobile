@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_detail_screen">
+    <sys_sg_master_detail_screen action="INSERT_OR_UPDATE">
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item display_value="Active Incidents">acd95516dbde2300f51ef3c61d9619d2</data_item>
+        <description/>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <icon display_value="file-alt">d30a9516dbde2300f51ef3c61d96198e</icon>
+        <name>Active INTs</name>
+        <order>20</order>
+        <parent>db9ded21131267000416b9004244b03d</parent>
+        <parent_table>sys_sg_folder</parent_table>
+        <roles_override/>
+        <sys_class_name>sys_sg_master_detail_screen</sys_class_name>
+        <sys_created_by>jesse.adams</sys_created_by>
+        <sys_created_on>2018-12-12 21:17:13</sys_created_on>
+        <sys_id>eb0a1916dbde2300f51ef3c61d9619ec</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Active INTs</sys_name>
+        <sys_package display_value="test incident flow" source="x_snc_test_inc">772d2921131267000416b9004244b076</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test incident flow">772d2921131267000416b9004244b076</sys_scope>
+        <sys_update_name>sys_sg_master_detail_screen_eb0a1916dbde2300f51ef3c61d9619ec</sys_update_name>
+        <sys_updated_by>jesse.adams</sys_updated_by>
+        <sys_updated_on>2018-12-12 21:31:51</sys_updated_on>
+    </sys_sg_master_detail_screen>
+</record_update>

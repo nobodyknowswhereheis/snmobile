@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view">
+    <sys_sg_item_view action="INSERT_OR_UPDATE">
+        <data_item display_value="User Lookup">798bd4dedb1e2300f51ef3c61d9619d4</data_item>
+        <dependency_fields>avatar,name,title,last_login</dependency_fields>
+        <item_view_json>{"Type":"ViewGroup","Margin":{"Top":26,"Bottom":26},"Orientation":"Vertical","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"Image","Margin":{"Top":3,"Left":3,"Right":3,"Bottom":3},"Width":84,"studio_template_field_id":"E1","CornerRadius":42,"BackgroundColor":"#ffffff","Height":84,"Scaling":"Fill","CellId":"avatar"}],"Margin":{},"CornerRadius":45,"BackgroundColor":"#165c53"},{"Type":"Text","Margin":{"Top":8},"TextColor":"#165c53","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"semibold","Size":24},"studio_template_field_id":"E2","CellId":"name"},{"Type":"Text","Margin":{"Top":3},"studio_template_field_id":"E3","TextColor":"#293e40","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":16},"CellId":"title"},{"Type":"Text","Margin":{"Top":4},"studio_template_field_id":"E4","TextColor":"#293e40","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"CellId":"last_login"}],"BackgroundColor":"#ffffff","studio_card_id":"8358f23023052300a8ed7f4fc7bf65b2"}</item_view_json>
+        <name>Uer Drilldown detail item view</name>
+        <short_description/>
+        <sys_class_name>sys_sg_item_view</sys_class_name>
+        <sys_created_by>jesse.adams</sys_created_by>
+        <sys_created_on>2018-12-12 16:48:06</sys_created_on>
+        <sys_id>197cdcdedb1e2300f51ef3c61d961940</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Uer Drilldown detail item view</sys_name>
+        <sys_package display_value="test incident flow" source="x_snc_test_inc">772d2921131267000416b9004244b076</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test incident flow">772d2921131267000416b9004244b076</sys_scope>
+        <sys_update_name>sys_sg_item_view_197cdcdedb1e2300f51ef3c61d961940</sys_update_name>
+        <sys_updated_by>jesse.adams</sys_updated_by>
+        <sys_updated_on>2018-12-12 21:38:52</sys_updated_on>
+        <ui_styles/>
+    </sys_sg_item_view>
+</record_update>

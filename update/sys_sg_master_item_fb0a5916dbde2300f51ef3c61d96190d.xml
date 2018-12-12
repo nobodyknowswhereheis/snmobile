@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition/>
+        <condition_order/>
+        <item_view display_value="Active INTs item view">6f0ad516dbde2300f51ef3c61d961914</item_view>
+        <name>Master Item</name>
+        <screen display_value="Active INTs">eb0a1916dbde2300f51ef3c61d9619ec</screen>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>jesse.adams</sys_created_by>
+        <sys_created_on>2018-12-12 21:17:14</sys_created_on>
+        <sys_id>fb0a5916dbde2300f51ef3c61d96190d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Master Item</sys_name>
+        <sys_package display_value="test incident flow" source="x_snc_test_inc">772d2921131267000416b9004244b076</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test incident flow">772d2921131267000416b9004244b076</sys_scope>
+        <sys_update_name>sys_sg_master_item_fb0a5916dbde2300f51ef3c61d96190d</sys_update_name>
+        <sys_updated_by>jesse.adams</sys_updated_by>
+        <sys_updated_on>2018-12-12 21:17:14</sys_updated_on>
+        <table>incident</table>
+    </sys_sg_master_item>
+</record_update>

@@ -1,29 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
     <sys_sg_button_instance action="INSERT_OR_UPDATE">
         <active>true</active>
-        <button display_value="Assign INT to Me">02934a21135267000416b9004244b0a8</button>
+        <button display_value="Change Category">d4f1981adb1e2300f51ef3c61d9619ae</button>
         <description/>
         <field_name/>
-        <label>Assign to me</label>
-        <location>trailing_swipe</location>
-        <name>Assign to me</name>
+        <label>Change Category</label>
+        <location>top</location>
+        <name>Change Category</name>
         <order>1</order>
-        <parent>29ee21a1131267000416b9004244b0f6</parent>
-        <parent_table>sys_sg_master_item</parent_table>
+        <parent>71eea1a1131267000416b9004244b098</parent>
+        <parent_table>sys_sg_details_screen</parent_table>
         <sys_class_name>sys_sg_button_instance</sys_class_name>
         <sys_created_by>jesse.adams</sys_created_by>
-        <sys_created_on>2018-12-10 16:26:27</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
-        <sys_id>cd548261135267000416b9004244b0c4</sys_id>
+        <sys_created_on>2018-12-12 16:06:32</sys_created_on>
+        <sys_id>68f2545adb1e2300f51ef3c61d96192c</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Assign to me</sys_name>
+        <sys_name>Change Category</sys_name>
         <sys_package display_value="test incident flow" source="x_snc_test_inc">772d2921131267000416b9004244b076</sys_package>
         <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="test incident flow">772d2921131267000416b9004244b076</sys_scope>
-        <sys_update_name>sys_sg_button_instance_cd548261135267000416b9004244b0c4</sys_update_name>
+        <sys_update_name>sys_sg_button_instance_68f2545adb1e2300f51ef3c61d96192c</sys_update_name>
         <sys_updated_by>jesse.adams</sys_updated_by>
-        <sys_updated_on>2018-12-10 16:26:27</sys_updated_on>
+        <sys_updated_on>2018-12-12 16:06:32</sys_updated_on>
         <table/>
     </sys_sg_button_instance>
 </record_update>

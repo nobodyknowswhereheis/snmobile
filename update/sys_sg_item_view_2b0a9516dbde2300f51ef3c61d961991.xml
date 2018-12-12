@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view">
+    <sys_sg_item_view action="INSERT_OR_UPDATE">
+        <data_item display_value="Active Incidents">acd95516dbde2300f51ef3c61d9619d2</data_item>
+        <dependency_fields>priority,state,short_description,sys_updated_on,sys_updated_by</dependency_fields>
+        <item_view_json>{"Type":"ViewGroup","Margin":{"Top":17,"Bottom":15},"Orientation":"Vertical","Alignment":"Stretch","Distribution":"Auto","Children":[{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Equal","Children":[{"Type":"ViewGroup","Margin":{"Right":12},"Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Children":[{"Type":"Text","CornerRadius":2,"BackgroundColor":"#f1f1f1","Height":21,"Width":100,"Margin":{},"studio_template_field_id":"E1","Text":"","CellId":"priority","TextColor":"#293e40","TextAlignment":"Center","MaxLines":1,"Font":{"Size":13,"Weight":"semibold"}}]},{"Type":"ViewGroup","Margin":{},"Orientation":"Vertical","Alignment":"Right","Distribution":"Auto","Children":[{"Type":"Text","Margin":{},"studio_template_field_id":"E2","Text":"","CellId":"state","TextColor":"#7d8a8c","TextAlignment":"Right","MaxLines":1,"Font":{"Weight":"regular","Size":13}}]}]},{"Type":"Text","Margin":{"Top":9},"studio_template_field_id":"E3","Text":"","CellId":"short_description","TextColor":"#293e40","TextAlignment":"Left","MaxLines":2,"Font":{"Weight":"regular","Size":18}},{"Type":"ViewGroup","Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Children":[{"Type":"ViewGroup","Margin":{"Top":9},"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"Text","Margin":{"Right":8},"studio_template_is_label":true,"studio_template_field_id":"E4","Text":"${sys_updated_on}","TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13}},{"Type":"Text","Margin":{},"studio_template_field_id":"E4","Text":"","CellId":"sys_updated_on","TextColor":"#293e40","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13}}]},{"Type":"ViewGroup","Margin":{"Top":8},"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"Text","Margin":{"Right":8},"studio_template_is_label":true,"studio_template_field_id":"E5","Text":"${sys_updated_by}","TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13}},{"Type":"Text","Margin":{},"studio_template_field_id":"E5","Text":"","CellId":"sys_updated_by","TextColor":"#293e40","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13}}]}]}],"studio_card_id":"e26cf34d23012300a8ed7f4fc7bf6563"}</item_view_json>
+        <name>Active INTs detail item view</name>
+        <short_description/>
+        <sys_class_name>sys_sg_item_view</sys_class_name>
+        <sys_created_by>jesse.adams</sys_created_by>
+        <sys_created_on>2018-12-12 21:17:13</sys_created_on>
+        <sys_id>2b0a9516dbde2300f51ef3c61d961991</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Active INTs detail item view</sys_name>
+        <sys_package display_value="test incident flow" source="x_snc_test_inc">772d2921131267000416b9004244b076</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test incident flow">772d2921131267000416b9004244b076</sys_scope>
+        <sys_update_name>sys_sg_item_view_2b0a9516dbde2300f51ef3c61d961991</sys_update_name>
+        <sys_updated_by>jesse.adams</sys_updated_by>
+        <sys_updated_on>2018-12-12 21:21:47</sys_updated_on>
+        <ui_styles/>
+    </sys_sg_item_view>
+</record_update>
